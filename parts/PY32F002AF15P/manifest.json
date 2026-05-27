@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Puya/PY32F002AF15P:PY32F002AF15P",
+  "name": "PY32F002AF15P",
+  "library": "MCU_Puya",
+  "file": "MCU_Puya.kicad_symdir/PY32F002AF15P.kicad_sym",
+  "description": "Puya PY32 ARM Cortex-M0 MCU, 20 KB Flash, 3 KB RAM, 24 MHz, 1.7-5.5V, 18 GPIO, TSSOP20",
+  "datasheet": "https://www.puyasemi.com/download_path/%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C/MCU%20%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8/PY32F002A_Datasheet_V0.2.pdf",
+  "keywords": "puya py32 arm cortex-m0",
+  "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-puya@master/parts/PY32F002AF15P/",
+  "part_path": "parts/PY32F002AF15P",
+  "symbol_file": "parts/PY32F002AF15P/PY32F002AF15P.kicad_sym",
+  "source_library": "MCU_Puya.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:51.685Z"
+}

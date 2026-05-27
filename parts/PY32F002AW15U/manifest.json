@@ -1,0 +1,17 @@
+{
+  "id": "MCU_Puya/PY32F002AW15U:PY32F002AW15U",
+  "name": "PY32F002AW15U",
+  "library": "MCU_Puya",
+  "file": "MCU_Puya.kicad_symdir/PY32F002AW15U.kicad_sym",
+  "description": "32-bit ARM Cortex-M0+ Microcontroller, 20 KB Flash, 3 KB SRAM, 24 MHz, 1.7V - 5.5V, 15 GPIO, WQFN-16",
+  "datasheet": "https://www.puyasemi.com/download_path/%E6%95%B0%E6%8D%AE%E6%89%8B%E5%86%8C/MCU%20%E5%BE%AE%E5%A4%84%E7%90%86%E5%99%A8/PY32F002A_Datasheet_V0.2.pdf",
+  "keywords": "MCU I2C SPI USART ADC SWD",
+  "footprint": "Package_DFN_QFN:WQFN-16-1EP_3x3mm_P0.5mm_EP1.75x1.75mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-mcu-puya@master/parts/PY32F002AW15U/",
+  "part_path": "parts/PY32F002AW15U",
+  "symbol_file": "parts/PY32F002AW15U/PY32F002AW15U.kicad_sym",
+  "source_library": "MCU_Puya.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:07:51.688Z"
+}
